@@ -72,7 +72,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ShaykhSameer/ShaykhSameer/snake.yml" alt="Snake animation" />
-
-###
