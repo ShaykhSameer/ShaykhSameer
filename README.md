@@ -73,6 +73,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ShaykhSameer/ShaykhSameer/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShaykhSameer/ShaykhSameer/snake.yml" alt="Snake animation" />
 
 ###
